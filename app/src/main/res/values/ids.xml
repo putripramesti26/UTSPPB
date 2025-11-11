@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <item name="editConfirmPassword" type="id">editCnfrmPassword</item>
-    <item name="editUsername" type="id">editUsername</item>
+    <item name="editConfirmPassword" type="id"/>
+    <item name="editUsername" type="id"/>
 </resources>
